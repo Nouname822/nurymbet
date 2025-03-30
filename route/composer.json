@@ -1,0 +1,23 @@
+{
+    "name": "nurymbet/route",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nurymbet\\Route\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0",
+        "symfony/cache": "^7.2",
+        "lucleroy/php-regex": "*",
+        "predis/predis": "^2.3"
+    }
+}

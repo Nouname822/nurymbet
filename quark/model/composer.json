@@ -1,0 +1,17 @@
+{
+    "name": "quark/model",
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Quark\\Model\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,20 @@
+{
+    "name": "quark/sql",
+    "description": "A library for working with SQL queries directly",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Quark\\Sql\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}

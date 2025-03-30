@@ -1,0 +1,20 @@
+{
+    "name": "quark/bin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Quark\\Bin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^6.4",
+        "php": ">=8.0"
+    }
+}

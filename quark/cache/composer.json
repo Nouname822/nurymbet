@@ -1,0 +1,20 @@
+{
+    "name": "quark/cache",
+    "description": "Library for working with the orm system cache",
+    "type": "library",
+    "require": {
+        "symfony/cache": "^7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Quark\\Cache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ]
+}
