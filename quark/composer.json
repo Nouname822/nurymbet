@@ -1,5 +1,5 @@
 {
-    "name": "quark/model",
+    "name": "nurymbet/quark",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -8,6 +8,8 @@
             "email": "Nouname822@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "quark/sql": "^1.0",
         "quark/model": "^1.0",

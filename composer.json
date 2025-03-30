@@ -3,9 +3,9 @@
     "type": "metapackage",
     "license": "MIT",
     "require": {
-        "nurymbet/core": "^1.0",
-        "nurymbet/route": "^1.0",
-        "nurymbet/quark": "^1.0"
+        "nurymbet/core": "*",
+        "nurymbet/route": "*",
+        "nurymbet/quark": "*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
