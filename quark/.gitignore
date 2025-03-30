@@ -1,0 +1,7 @@
+bin/vendor
+cache/vendor
+common/vendor
+logs/vendor
+migrations/vendor
+model/vendor
+sql/vendor
