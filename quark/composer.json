@@ -1,0 +1,20 @@
+{
+    "name": "quark/model",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Nouname822",
+            "email": "Nouname822@gmail.com"
+        }
+    ],
+    "require": {
+        "quark/sql": "^1.0",
+        "quark/model": "^1.0",
+        "quark/migrations": "^1.0",
+        "quark/logs": "^1.0",
+        "quark/common": "^1.0",
+        "quark/cache": "^1.0",
+        "quark/bin": "^1.0"
+    }
+}
